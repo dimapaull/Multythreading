@@ -20,6 +20,7 @@
 		0E7BD23E2BAA522900E35E9A /* Task2_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD23D2BAA522900E35E9A /* Task2_4.swift */; };
 		0E7BD2402BAA524500E35E9A /* Task2_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD23F2BAA524500E35E9A /* Task2_5.swift */; };
 		0E7BD2422BAA529200E35E9A /* Task2_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2412BAA529200E35E9A /* Task2_6.swift */; };
+		0E7BD2442BAB27C600E35E9A /* Task3_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2432BAB27C600E35E9A /* Task3_1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		0E7BD23D2BAA522900E35E9A /* Task2_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_4.swift; sourceTree = "<group>"; };
 		0E7BD23F2BAA524500E35E9A /* Task2_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_5.swift; sourceTree = "<group>"; };
 		0E7BD2412BAA529200E35E9A /* Task2_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_6.swift; sourceTree = "<group>"; };
+		0E7BD2432BAB27C600E35E9A /* Task3_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				0E643B8F2BA8D400004A4502 /* AppDelegate.swift */,
 				0E643B912BA8D400004A4502 /* SceneDelegate.swift */,
 				0E643B932BA8D400004A4502 /* ViewController.swift */,
+				0E7BD2432BAB27C600E35E9A /* Task3_1.swift */,
 				0E7BD2352BAA511C00E35E9A /* Task1-2.swift */,
 				0E7BD2372BAA519600E35E9A /* Task2_1.swift */,
 				0E7BD23B2BAA51EE00E35E9A /* Task2_3.swift */,
@@ -168,6 +171,7 @@
 				0E7BD2362BAA511C00E35E9A /* Task1-2.swift in Sources */,
 				0E7BD2402BAA524500E35E9A /* Task2_5.swift in Sources */,
 				0E7BD23A2BAA51C200E35E9A /* task2_2.swift in Sources */,
+				0E7BD2442BAB27C600E35E9A /* Task3_1.swift in Sources */,
 				0E7BD2382BAA519600E35E9A /* Task2_1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
