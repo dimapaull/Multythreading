@@ -13,6 +13,25 @@
 		0E643B972BA8D401004A4502 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E643B952BA8D401004A4502 /* Main.storyboard */; };
 		0E643B992BA8D408004A4502 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E643B982BA8D408004A4502 /* Assets.xcassets */; };
 		0E643B9C2BA8D408004A4502 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E643B9A2BA8D408004A4502 /* LaunchScreen.storyboard */; };
+		0E7BD2362BAA511C00E35E9A /* Task1-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2352BAA511C00E35E9A /* Task1-2.swift */; };
+		0E7BD2382BAA519600E35E9A /* Task2_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2372BAA519600E35E9A /* Task2_1.swift */; };
+		0E7BD23A2BAA51C200E35E9A /* task2_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2392BAA51C200E35E9A /* task2_2.swift */; };
+		0E7BD23C2BAA51EE00E35E9A /* Task2_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD23B2BAA51EE00E35E9A /* Task2_3.swift */; };
+		0E7BD23E2BAA522900E35E9A /* Task2_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD23D2BAA522900E35E9A /* Task2_4.swift */; };
+		0E7BD2402BAA524500E35E9A /* Task2_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD23F2BAA524500E35E9A /* Task2_5.swift */; };
+		0E7BD2422BAA529200E35E9A /* Task2_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2412BAA529200E35E9A /* Task2_6.swift */; };
+		0E7BD2442BAB27C600E35E9A /* Task3_1_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2432BAB27C600E35E9A /* Task3_1_1.swift */; };
+		0E7BD2462BADA6B900E35E9A /* task3_1_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2452BADA6B900E35E9A /* task3_1_2.swift */; };
+		0E7BD2482BADA9A200E35E9A /* Task3_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2472BADA9A200E35E9A /* Task3_2.swift */; };
+		0E7BD24A2BAE106900E35E9A /* Task3_3_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2492BAE106800E35E9A /* Task3_3_1.swift */; };
+		0E7BD24C2BAE111500E35E9A /* Task3_3_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD24B2BAE111500E35E9A /* Task3_3_2.swift */; };
+		0E7BD24E2BAE12B600E35E9A /* Task3_3_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD24D2BAE12B600E35E9A /* Task3_3_3.swift */; };
+		0E7BD2502BAE13B200E35E9A /* Task3_3_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD24F2BAE13B200E35E9A /* Task3_3_4.swift */; };
+		0E7BD2522BAE174B00E35E9A /* Task3_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2512BAE174A00E35E9A /* Task3_4.swift */; };
+		0E7BD2542BAEE1CB00E35E9A /* Task4_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2532BAEE1CB00E35E9A /* Task4_1.swift */; };
+		0E7BD2562BAEE2D800E35E9A /* Task4_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2552BAEE2D800E35E9A /* Task4_2.swift */; };
+		0E7BD2582BAEF53D00E35E9A /* Task4_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2572BAEF53D00E35E9A /* Task4_3.swift */; };
+		0E7BD25A2BAEF6BE00E35E9A /* Task4_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7BD2592BAEF6BE00E35E9A /* Task4_4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,25 @@
 		0E643B982BA8D408004A4502 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E643B9B2BA8D408004A4502 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E643B9D2BA8D408004A4502 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E7BD2352BAA511C00E35E9A /* Task1-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task1-2.swift"; sourceTree = "<group>"; };
+		0E7BD2372BAA519600E35E9A /* Task2_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_1.swift; sourceTree = "<group>"; };
+		0E7BD2392BAA51C200E35E9A /* task2_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = task2_2.swift; sourceTree = "<group>"; };
+		0E7BD23B2BAA51EE00E35E9A /* Task2_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_3.swift; sourceTree = "<group>"; };
+		0E7BD23D2BAA522900E35E9A /* Task2_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_4.swift; sourceTree = "<group>"; };
+		0E7BD23F2BAA524500E35E9A /* Task2_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_5.swift; sourceTree = "<group>"; };
+		0E7BD2412BAA529200E35E9A /* Task2_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2_6.swift; sourceTree = "<group>"; };
+		0E7BD2432BAB27C600E35E9A /* Task3_1_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_1_1.swift; sourceTree = "<group>"; };
+		0E7BD2452BADA6B900E35E9A /* task3_1_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = task3_1_2.swift; sourceTree = "<group>"; };
+		0E7BD2472BADA9A200E35E9A /* Task3_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_2.swift; sourceTree = "<group>"; };
+		0E7BD2492BAE106800E35E9A /* Task3_3_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_3_1.swift; sourceTree = "<group>"; };
+		0E7BD24B2BAE111500E35E9A /* Task3_3_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_3_2.swift; sourceTree = "<group>"; };
+		0E7BD24D2BAE12B600E35E9A /* Task3_3_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_3_3.swift; sourceTree = "<group>"; };
+		0E7BD24F2BAE13B200E35E9A /* Task3_3_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_3_4.swift; sourceTree = "<group>"; };
+		0E7BD2512BAE174A00E35E9A /* Task3_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3_4.swift; sourceTree = "<group>"; };
+		0E7BD2532BAEE1CB00E35E9A /* Task4_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4_1.swift; sourceTree = "<group>"; };
+		0E7BD2552BAEE2D800E35E9A /* Task4_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4_2.swift; sourceTree = "<group>"; };
+		0E7BD2572BAEF53D00E35E9A /* Task4_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4_3.swift; sourceTree = "<group>"; };
+		0E7BD2592BAEF6BE00E35E9A /* Task4_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4_4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +97,25 @@
 				0E643B8F2BA8D400004A4502 /* AppDelegate.swift */,
 				0E643B912BA8D400004A4502 /* SceneDelegate.swift */,
 				0E643B932BA8D400004A4502 /* ViewController.swift */,
+				0E7BD2432BAB27C600E35E9A /* Task3_1_1.swift */,
+				0E7BD2532BAEE1CB00E35E9A /* Task4_1.swift */,
+				0E7BD2552BAEE2D800E35E9A /* Task4_2.swift */,
+				0E7BD2572BAEF53D00E35E9A /* Task4_3.swift */,
+				0E7BD2592BAEF6BE00E35E9A /* Task4_4.swift */,
+				0E7BD2452BADA6B900E35E9A /* task3_1_2.swift */,
+				0E7BD2352BAA511C00E35E9A /* Task1-2.swift */,
+				0E7BD2372BAA519600E35E9A /* Task2_1.swift */,
+				0E7BD23B2BAA51EE00E35E9A /* Task2_3.swift */,
+				0E7BD2492BAE106800E35E9A /* Task3_3_1.swift */,
+				0E7BD24B2BAE111500E35E9A /* Task3_3_2.swift */,
+				0E7BD24D2BAE12B600E35E9A /* Task3_3_3.swift */,
+				0E7BD2512BAE174A00E35E9A /* Task3_4.swift */,
+				0E7BD24F2BAE13B200E35E9A /* Task3_3_4.swift */,
+				0E7BD23D2BAA522900E35E9A /* Task2_4.swift */,
+				0E7BD23F2BAA524500E35E9A /* Task2_5.swift */,
+				0E7BD2412BAA529200E35E9A /* Task2_6.swift */,
+				0E7BD2392BAA51C200E35E9A /* task2_2.swift */,
+				0E7BD2472BADA9A200E35E9A /* Task3_2.swift */,
 				0E643B952BA8D401004A4502 /* Main.storyboard */,
 				0E643B982BA8D408004A4502 /* Assets.xcassets */,
 				0E643B9A2BA8D408004A4502 /* LaunchScreen.storyboard */,
@@ -138,9 +195,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E7BD23E2BAA522900E35E9A /* Task2_4.swift in Sources */,
+				0E7BD2462BADA6B900E35E9A /* task3_1_2.swift in Sources */,
 				0E643B942BA8D400004A4502 /* ViewController.swift in Sources */,
+				0E7BD2502BAE13B200E35E9A /* Task3_3_4.swift in Sources */,
 				0E643B902BA8D400004A4502 /* AppDelegate.swift in Sources */,
+				0E7BD2542BAEE1CB00E35E9A /* Task4_1.swift in Sources */,
+				0E7BD25A2BAEF6BE00E35E9A /* Task4_4.swift in Sources */,
+				0E7BD24E2BAE12B600E35E9A /* Task3_3_3.swift in Sources */,
+				0E7BD23C2BAA51EE00E35E9A /* Task2_3.swift in Sources */,
+				0E7BD2522BAE174B00E35E9A /* Task3_4.swift in Sources */,
+				0E7BD2422BAA529200E35E9A /* Task2_6.swift in Sources */,
+				0E7BD2482BADA9A200E35E9A /* Task3_2.swift in Sources */,
 				0E643B922BA8D400004A4502 /* SceneDelegate.swift in Sources */,
+				0E7BD2562BAEE2D800E35E9A /* Task4_2.swift in Sources */,
+				0E7BD2362BAA511C00E35E9A /* Task1-2.swift in Sources */,
+				0E7BD2582BAEF53D00E35E9A /* Task4_3.swift in Sources */,
+				0E7BD2402BAA524500E35E9A /* Task2_5.swift in Sources */,
+				0E7BD24A2BAE106900E35E9A /* Task3_3_1.swift in Sources */,
+				0E7BD23A2BAA51C200E35E9A /* task2_2.swift in Sources */,
+				0E7BD2442BAB27C600E35E9A /* Task3_1_1.swift in Sources */,
+				0E7BD2382BAA519600E35E9A /* Task2_1.swift in Sources */,
+				0E7BD24C2BAE111500E35E9A /* Task3_3_2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
